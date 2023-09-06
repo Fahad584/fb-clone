@@ -5,6 +5,6 @@ fb clone
 
 ![Capture1](https://github.com/Fahad584/fb-clone/assets/107251127/f8768e70-76ee-41a8-abff-e176636dd0f3)
 
-contact
+Email Id:
 fahadbhutta5833@gmail.com
 .....
